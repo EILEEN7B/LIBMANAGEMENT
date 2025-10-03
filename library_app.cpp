@@ -163,8 +163,9 @@ int main() {
             break;
         }
 
-        cout << '\n';
+        cout << 'All tests executed.\n';
     }
 
     return 0;
 }
+
